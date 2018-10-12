@@ -10,6 +10,7 @@ function refreshEnv {
 refreshEnv
     
 scoop install git nodejs
+scoop install yarn
     
 scoop bucket add extras
 scoop install vscode
