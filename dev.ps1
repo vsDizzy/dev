@@ -16,3 +16,6 @@ scoop bucket add extras
 scoop install vscode
 code --install-extension eg2.tslint
 code --install-extension esbenp.prettier-vscode
+
+scoop update *
+scoop cleanup *
